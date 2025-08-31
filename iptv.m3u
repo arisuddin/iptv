@@ -65,7 +65,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-#EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXY.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xmlG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",GALAXY.id
+#EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXY.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xmlG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZui9S2_9rgixQEraSnsGKCdqPMha_Nu6eyA&s",GALAXY.id
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -129,7 +129,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="My Cinema Asia.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/992/49992-SNAPSHOT-l.png" group-title="Premium Movies",My Cinema Asia.id
+#EXTINF:-1 tvg-id="My Cinema Asia.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" group-title="Premium Movies",My Cinema Asia.id
 https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -231,14 +231,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Indonesia Channels",Trans TV.id
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/958/49958-SNAPSHOT-l.png" group-title="Indonesia Channels",Trans TV.id
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Indonesia Channels",Trans TV.id
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/958/49958-SNAPSHOT-l.png" group-title="Indonesia Channels",Trans TV.id
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -326,7 +326,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-#EXTINF:-1 tvg-id="BBC Earth.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Knowledge & Documentary",BBC Earth.id
+#EXTINF:-1 tvg-id="BBC Earth.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://iili.io/JmoCwfS.png" group-title="Knowledge & Documentary",BBC Earth.id
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -368,7 +368,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
-#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="Knowledge & Documentary",Love Nature (FMX)
+#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://iili.io/JmoCsg1.png" group-title="Knowledge & Documentary",Love Nature (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -377,7 +377,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
-#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="Knowledge & Documentary",Love Nature (V+)
+#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://iili.io/JmoCsg1.png" group-title="Knowledge & Documentary",Love Nature (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
